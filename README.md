@@ -4,8 +4,7 @@
 
 [![Github](https://img.shields.io/github/followers/token01?label=Follow&style=social)](https://github.com/token01)
 
-I ❤ Open Source. I love Vim and Go.
-
+- I ❤ Open Source. I love Vim and Go.
 - 🌈 I'm currently working from home. 😎
 - 🤔 I'm thinking about how to make more money. 😁
 - 💬 Ask me about `da bao jian`. 😍
