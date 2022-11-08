@@ -9,7 +9,6 @@
 - 🤔 I'm thinking about how to make more money. 😁
 - 💬 Ask me about `da bao jian`. 😍
 - 🤲 I'm a qualified father. 😢
-<!-- - 📫 How to reach me. [xiaorui.cc](http://xiaorui.cc) -->
 
 
 ![rfyiamcool's github stats](https://github-readme-stats.vercel.app/api?username=token01&show_icons=true&count_private=true&line_height=40)
