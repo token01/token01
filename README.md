@@ -4,10 +4,10 @@
 
 [![Github](https://img.shields.io/github/followers/token01?label=Follow&style=social)](https://github.com/token01)
 
-- I ❤ Open Source. I love Vim and Go Java Python Rust.
+- I ❤ Open Source. I love Vim and Go Java Python Rust. 
 - 🌈 I'm currently working from home. 😎
 - 🤔 I'm thinking about how to make more money. 😁
-- 💬 Ask me about `da bao jian`. 😍
+- 💬 Ask me about `da bao jian`. 😍 
 
 
 ![rfyiamcool's github stats](https://github-readme-stats.vercel.app/api?username=token01&show_icons=true&count_private=true&line_height=40)
