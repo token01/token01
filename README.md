@@ -9,6 +9,4 @@
 - 🤔 I'm thinking about how to make more money. 😁
 - 💬 Ask me about `da bao jian`. 😍 
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=token01&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=material-palenight" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=token01&hide_title=true&hide_border=true&layout=compact&theme=material-palenight" />
-
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=token01&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
