@@ -38,9 +38,6 @@
 
 [![profile](https://github-profile-trophy.vercel.app/?username=token01&theme=algolia&column=8)](https://github-profile-trophy.vercel.app/?username=token01&theme=algolia&column=8)
 
-[![snake](./assets/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/token01/token01/master/assets/github-contribution-grid-snake.svg)
-[![github-active](./profile-3d-contrib/profile-night-rainbow.svg)](https://raw.githubusercontent.com/token01/token01/master/profile-3d-contrib/profile-night-rainbow.svg)
-
 [![](https://activity-graph.herokuapp.com/graph?username=token01&theme=github)](https://activity-graph.herokuapp.com/graph?username=token01&theme=github)
 
 </div>
